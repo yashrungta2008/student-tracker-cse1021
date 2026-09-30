@@ -25,3 +25,4 @@ How to Install and Run
 Testing the Program
 * Open the menu and choose option 1 to add a student. Try entering letters instead of numbers for grades to see how the program stops invalid entries.
 * Add 3 different students with different marks, then select option 4 to see if the custom sorting works correctly.
+* <img width="492" height="262" alt="image" src="https://github.com/user-attachments/assets/989c5ea1-5508-479f-9b34-7e9f5a0b2538" />
